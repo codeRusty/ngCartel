@@ -1,0 +1,9 @@
+
+
+.custom {
+  width: 70%;
+  left: 15%;
+}
+.carousel-inner > .carousel-item > img {
+  width: 100%;
+}
