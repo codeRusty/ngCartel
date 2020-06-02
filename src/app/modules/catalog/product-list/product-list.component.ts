@@ -8,6 +8,7 @@ import { BeamService, BeamType } from "../../app-common/services/beam.service";
 })
 export class ProductListComponent implements OnInit {
   constructor(public _beam: BeamService) {}
+  panelOpenState = false;
   loading = true;
   thumbLabel = true;
   selectedRange = 500;

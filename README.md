@@ -1,5 +1,16 @@
 # NgCartel
 
+The Project is just a basci tempalte to start working on an ecommeres website.
+
+The project is just currently basic.
+
+Still components are required to be created and still keep the animationes going.
+
+The is currently is just a theme and has not backend.
+
+
+# Info
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.1.0.
 
 ## Development server
