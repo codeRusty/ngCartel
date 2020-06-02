@@ -8,6 +8,7 @@ Still components are required to be created and still keep the animationes going
 
 The is currently is just a theme and has not backend.
 
+It uses few Material Design for filters. 
 
 # Info
 
